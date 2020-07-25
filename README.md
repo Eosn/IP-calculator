@@ -18,5 +18,5 @@ Besides each line of code, there's the explanation in Brazilian Portuguese of th
 
 ## Purpose, creators and bibliography
 Work requested by the professors of Programming I and Computer Networks for the Internet, Alessandra Aguiar Vilarinho and Gilmar Luiz Vassoler at the Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus Serra. November, 2017.</br>
-<b>Members of the group:</b>[Éllen Neves](https://github.com/Eosn), Maria Gabriela Tavares, Pedro Caio Miranda and Sidenir Junior.</br>
+<b>Members of the group:</b> [Éllen Neves](https://github.com/Eosn), Maria Gabriela Tavares, Pedro Caio Miranda and Sidenir Junior.</br>
 <b>Bibliography:</b> [this video](https://www.youtube.com/watch?v=mrbG8B6Gqfs&feature=youtu.be) and professors in the programming and networking subjects.
