@@ -1,6 +1,6 @@
 # IP-calculator
 ## Overall explanation
-This code requests the user to enter an IP adress and a subnet mask, both in decimal number, returning both of them in addition to the subnet and the broadcast adresses, everything in both decimal and binary numbers. This way, the following example is possible:
+This code requests the user to enter an IP address and a subnet mask, both in decimal number, returning both of them in addition to the subnet and the broadcast addresses, everything in both decimal and binary numbers. This way, the following example is possible:
 
 ```
 Digite o IP: 192.168.0.2
