@@ -13,6 +13,7 @@ This code requests the user to enter an IP adress and a subnet mask, both in dec
 
 Besides each line of code, there's the explanation in Brazilian Portuguese of the logic used and what is being done on each function.
 
+##Purpose, creators and bibliography
 Work requested by the professors of Programming I and Computer Networks for the Internet, Alessandra Aguiar Vilarinho and Gilmar Luiz Vassoler at the Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus Serra. November, 2017.</br>
-<b>Members of the group:</b> Éllen Neves, Maria Gabriela Tavares, Pedro Caio Miranda and Sidenir Junior.</br>
-<b>Bibliography:</b> https://www.youtube.com/watch?v=mrbG8B6Gqfs&feature=youtu.be e professors in the programming and networking subjects.
+<b>Members of the group:</b>[Éllen Neves](https://github.com/Eosn), Maria Gabriela Tavares, Pedro Caio Miranda and Sidenir Junior.</br>
+<b>Bibliography:</b> [this video](https://www.youtube.com/watch?v=mrbG8B6Gqfs&feature=youtu.be) e professors in the programming and networking subjects.
