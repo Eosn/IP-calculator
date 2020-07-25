@@ -120,7 +120,7 @@ def main(args): #Função principal que invoca todas as outras funções e impri
 	masc = input("Digite a máscara de subrede: ") #Pede ao usuário o endereço da máscara de subrede em decimal
 	bi = f_separaip(ip) #Invoca a função para separar os octetos
 	biP = f_pontinho(bi) #Invoca a função para colocar os pontos entre os octetos
-	print ("IP = ", biP) #Imprime o endereço IP em decimal
+	print ("\nIP = ", biP) #Imprime o endereço IP em decimal
 	for j in range(len(bi)): #Cria um loop cuja condição é o tamanho do endereço IP em decimal
 		bi2 = bi2 + [f_converteDecBi(bi, j)] #Define o endereço IP em binário e invoca a função de conversão de decimal para binário
 	bi2P = f_pontinho(bi2) #Invoca a função para colocar os pontos entre os octetos
